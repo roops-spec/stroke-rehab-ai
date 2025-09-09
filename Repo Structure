@@ -1,0 +1,23 @@
+stroke-rehab-ai/
+│
+├── frontend/             
+│   ├── src/
+│   └── package.json
+│
+├── backend/              
+│   ├── app.py or server.js 
+│   └── requirements.txt / package.json
+│
+├── ml/                   
+│   ├── mediapipe_pose.py
+│   ├── angle_utils.py
+│   └── demo.ipynb
+│
+├── docs/                 
+│   ├── project_overview.md
+│   ├── system_diagram.png
+│   └── api_design.md
+│
+├── .gitignore
+├── LICENSE
+└── README.md
